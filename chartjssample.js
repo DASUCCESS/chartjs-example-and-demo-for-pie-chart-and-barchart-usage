@@ -10,7 +10,7 @@ const barChartData = {
     }]
 };
 
-// Create the bar chart here
+// Create the bar chart here for more understanding
 const barChart = new Chart(document.getElementById('bar-chart'), {
     type: 'bar',
     data: barChartData,
